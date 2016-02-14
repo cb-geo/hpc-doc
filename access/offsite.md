@@ -1,6 +1,14 @@
 ## Off-site access to HPCS
 
-The HPCS is accessible only within Cambridge University Data Network. In order to access HPCS you need to first connect to a CUDN machine, for example the MCS cluster (`linux.pwf.cam.ac.uk`) or the CUED Gateway (`gate.eng.cam.ac.uk`). Port forwarding via SSH (SSH tunneling) creates a secure connection between a local computer and a remote machine through which services can be relayed. In this section we will use `gate.eng.cam.ac.uk` to relay services. Alternatively, `linux.pwf.cam.ac.uk` can also be used.
+The HPCS is accessible only within Cambridge University Data Network. In order to access HPCS you need to first connect to a CUDN machine, for example the MCS cluster (`linux.pwf.cam.ac.uk`) or the CUED Gateway (`gate.eng.cam.ac.uk`).
+
+## Accessing HPCS - VPN
+
+Virtual Private Network (VPN) allows users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network (in this case CUDN). University of Cambridge offers a free VPN service, more information can be found [here](http://www.ucs.cam.ac.uk/vpn). Researchers at the CUED can request for an engineering department's [VPN](http://www-h.eng.cam.ac.uk/help/network/vpn/). Once connected to a VPN, you can access the HPCS as usual.
+
+## Accessing HPCS - SSH tunneling
+
+Port forwarding via SSH (SSH tunneling) creates a secure connection between a local computer and a remote machine through which services can be relayed. In this section we will use `gate.eng.cam.ac.uk` to relay services. Alternatively, `linux.pwf.cam.ac.uk` can also be used.
 
 ### Windows (MobaXterm)
 
@@ -29,7 +37,3 @@ do this using a single command:
 
 * This will prompt password for `gate.eng.cam.ac.uk` followed by the password prompt for HPCS.
 
-
-## VPN access
-
-VPN allows users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network (in this case CUDN). University of Cambridge offers a free VPN service, more information can be found [here](http://www.ucs.cam.ac.uk/vpn). Researchers at the CUED can request for an engineering department's [VPN](http://www-h.eng.cam.ac.uk/help/network/vpn/). Once connected to a VPN, you can access the HPCS as usual.
