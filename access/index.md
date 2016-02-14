@@ -28,3 +28,8 @@ MobaXterm is a freeware that offers enhanced terminal for Windows with X11 serve
 
 * Individual login nodes `login-sand1.hpc.cam.ac.uk` to `login-sand8.hpc.cam.ac.uk` may be explicitly accessed in the same way (the generic names `login.hpc.cam.ac.uk` and `login-sand.hpc.cam.ac.uk` select a random node from this set).
 
+## Linux or Mac OS 
+
+Launch a terminal on Linux or Mac OS and connect to HPCS using SSH: `ssh ab123@login.hpc.cam.ac.uk`, where ab123 is your CRSid. More information on connecting to HPCS using SSH can be found [here](http://www.hpc.cam.ac.uk/using-clusters/connecting). If `SSH` is not installed, you might have to download and compile `OpenSSH`.
+
+
