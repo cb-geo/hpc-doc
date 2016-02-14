@@ -6,7 +6,7 @@ MobaXterm is a freeware that offers enhanced terminal for Windows with X11 serve
 
 ![Allow MobaXterm through firewall](mobaxterm-firewall.png)
 
-* Create an `SSH` session, select `Session` and choose `SSH` in the `Session settings`. 
+* To create an `SSH` session, select `Session` and choose `SSH` in the `Session settings`. 
 
 * Set remote host as `login.hpc.cam.ac.uk`, tick `Specify username` and type your CRSid in the box provided. Leave the port to be `22` and click `OK`.
 
