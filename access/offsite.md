@@ -25,6 +25,6 @@ The HPCS is accessible only within Cambridge University Data Network. In order t
 One method to login to HPCS is to first login to an intermediary server (`gate.eng.cam.ac.uk` or `linux.pwf.cam.ac.uk`) and then ssh to HPCS. See previous section on SSH Linux. Alternatively, you can run
 do this using a single command:
 
-* Launch a terminal and type `ssh -tt kks32@gate.eng.cam.ac.uk ssh -tt kks32@login.hpc.cam.ac.uk`.
+* Launch a terminal and type `ssh -tt ab123@gate.eng.cam.ac.uk ssh -tt ab123@login.hpc.cam.ac.uk`.
 
 * This will prompt password for `gate.eng.cam.ac.uk` followed by the password prompt for HPCS.
