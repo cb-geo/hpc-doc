@@ -28,3 +28,8 @@ do this using a single command:
 * Launch a terminal and type `ssh -tt ab123@gate.eng.cam.ac.uk ssh -tt ab123@login.hpc.cam.ac.uk`.
 
 * This will prompt password for `gate.eng.cam.ac.uk` followed by the password prompt for HPCS.
+
+
+## VPN access
+
+VPN allows users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network (in this case CUDN). University of Cambridge offers a free VPN service, more information can be found [here](http://www.ucs.cam.ac.uk/vpn). Researchers at the CUED can request for an engineering department's [VPN](http://www-h.eng.cam.ac.uk/help/network/vpn/). Once connected to a VPN, you can access the HPCS as usual.
