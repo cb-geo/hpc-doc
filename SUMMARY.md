@@ -8,3 +8,4 @@
 * [File transfers](files/index.md)
   * [Windows (SFTP via MobaXterm)](files/windows.md)
   * [Linux or MacOS (rsync)](files/linux.md)
+* [Remote desktop](remote_desktop/index.md)
