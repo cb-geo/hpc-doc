@@ -20,3 +20,14 @@ MobaXterm is a freeware that offers enhanced terminal for Windows with X11 serve
 
 * Individual login nodes `login-sand1.hpc.cam.ac.uk` to `login-sand8.hpc.cam.ac.uk` may be explicitly accessed in the same way (the generic names `login.hpc.cam.ac.uk` and `login-sand.hpc.cam.ac.uk` select a random node from this set).
 
+On your first SSH connection to the HPC service you will be presented with the current SSH public host key. 
+
+This *fingerprint* MUST match either of these two values:
+
+`0b:ef:59:90:fb:13:4a:c9:56:82:7b:cd:4b:2b:e1:3b`
+
+or
+
+`SHA256:sSkVfzpwjwiFvxLcdPoDpN8IsN3kt0ZSywhDhPKZPAg`
+
+If this is not the case, there may be a security issue and you should contact [support@hpc.cam.ac.uk](mailto:support@hpc.cam.ac.uk) directly and as soon as possible. 

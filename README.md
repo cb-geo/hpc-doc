@@ -1,5 +1,3 @@
-![www.cb-geo.com](cb-geo.png)
-
 High Performance Computing
 ==========================
 

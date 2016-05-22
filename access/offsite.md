@@ -4,7 +4,7 @@ The HPCS is accessible only within Cambridge University Data Network. In order t
 
 ## Accessing HPCS - VPN
 
-Virtual Private Network (VPN) allows users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network (in this case CUDN). University of Cambridge offers a free VPN service, more information can be found [here](http://www.ucs.cam.ac.uk/vpn). Researchers at the CUED can request for an engineering department's [VPN](http://www-h.eng.cam.ac.uk/help/network/vpn/). Once connected to a VPN, you can access the HPCS as usual.
+Virtual Private Network (VPN) allows users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network (in this case CUDN). University of Cambridge offers a free VPN service, more information can be found [here](http://www.ucs.cam.ac.uk/vpn). Researchers at the CUED can request for an engineering department's [VPN](http://www-h.eng.cam.ac.uk/help/network/vpn/). Once connected to a VPN, you can access the HPCS as usual. This is the most straightforward method for accessing the HPC off-site.
 
 ## Accessing HPCS - SSH tunneling
 
