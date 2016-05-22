@@ -1,11 +1,16 @@
 # Summary
 
 * [Applying for resources](applying/index.md)
+* [The HPCS service](service/index.md)
+  * [Cost](service/cost.md)
+  * [Level of service](service/los.md)
+  * [Quality of service](service/qos.md)
 * [Accessing the HPCS](access/index.md)
   * [Windows (SSH via MobaXterm)](access/windows.md)
   * [Linux or MacOS](access/linux.md)
   * [Off-site access](access/offsite.md)
 * [File transfers](files/index.md)
+  * [File Destination](files/destinations.md)
   * [Windows (SFTP via MobaXterm)](files/windows.md)
   * [Linux or MacOS (rsync)](files/linux.md)
 * [Remote desktop](remote_desktop/index.md)
