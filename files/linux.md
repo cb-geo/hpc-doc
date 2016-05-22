@@ -29,3 +29,8 @@ Consider we are copying files in the `local_input` folder to the HPCS scratch di
 
 `rsync -avcz --progress ~/.local_input/ ab123@login.hpc.cam.ac.uk:/scratch/ab123/analysis/`
 
+### Off-site file transfer
+
+* Follow the steps listed in [off-site HPS access using the University VPN service](../access/offsite.md)
+
+* With VPN access the command line interface can be used as standard.
