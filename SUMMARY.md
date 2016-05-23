@@ -11,7 +11,7 @@
   * [Off-site access](access/offsite.md)
   * [SSH key](access/ssh.md)
 * [File transfers](files/index.md)
-  * [File Destination](files/destinations.md)
+  * [File systems](files/files.md)
   * [Windows (SFTP via MobaXterm)](files/windows.md)
   * [Linux or MacOS (rsync)](files/linux.md)
 * [Remote desktop](remote_desktop/index.md)

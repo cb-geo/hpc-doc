@@ -1,6 +1,8 @@
 # Filesystems
 
-Before beginning to transfer files from your local machine to the HPC, consider where you will place them. 
+HPCS offers two main file storages. A home directory, which is backed up, but  offers only 40GB of storage space and a shared `scratch` directory, which offers 1TB of quota, but no backups. 
+
+> **Info** Always use the `/scratch/ab123` directory as your working directory when running your analysis as it has a faster infini-band connection with the compute nodes.
 
 Summary of available filesystems
 
