@@ -9,6 +9,7 @@
   * [Windows (SSH via MobaXterm)](access/windows.md)
   * [Linux or MacOS](access/linux.md)
   * [Off-site access](access/offsite.md)
+  * [SSH key](access/ssh.md)
 * [File transfers](files/index.md)
   * [File Destination](files/destinations.md)
   * [Windows (SFTP via MobaXterm)](files/windows.md)
