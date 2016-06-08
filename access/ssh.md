@@ -49,6 +49,8 @@ Creates a new ssh key, using the provided email as a label generating public/pri
 
   `ssh-copy-id ab123@login.hpc.cam.ac.uk`
 
+> **Note** If you are on Mac, you may need to install `ssh-copy-id`. This can be done using the package manager for Mac, Brew. Install Brew [here](http://brew.sh/) and then simply type `brew install ssh-copy-id` in the command line.
+
 * This will copy the public part of your SSH key pair to `~/.ssh/authorized_keys` on Darwin.
 
 # Connecting to the server with SSH key
