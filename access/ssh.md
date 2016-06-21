@@ -1,6 +1,9 @@
 # SSH keys
 
-SSH keys are a way to identify trusted computers without involving passwords. You can generate an SSH key and add the public key to Darwin by following the procedures outlined in this section. This section is based on the tutorials by [GitHub on using SSH keys](https://help.github.com/categories/ssh/)
+SSH keys are a way to identify trusted computers without involving passwords. Before you set this up, it suggested you read about the key concepts - private and public keys [here](http://blakesmith.me/2010/02/08/understanding-public-key-private-key-concepts.html)
+
+
+You can generate an SSH key and add the public key to Darwin by following the procedures outlined in this section. This section is based on the tutorials by [GitHub on using SSH keys](https://help.github.com/categories/ssh/)
 
 ## Checking for existing SSH keys
 
