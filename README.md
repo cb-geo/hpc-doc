@@ -1,3 +1,7 @@
+![www.cb-geo.com](cb-geo.png)
+
+[![Build Status](https://api.travis-ci.org/cb-geo/hpc.svg)](https://travis-ci.org/cb-geo/hpc)
+
 High Performance Computing
 ==========================
 
