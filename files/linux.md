@@ -34,3 +34,7 @@ Consider we are copying files in the `local_input` folder to the HPCS scratch di
 * Follow the steps listed in [off-site HPS access using the University VPN service](../access/offsite.md)
 
 * With VPN access the command line interface can be used as standard.
+
+* Or follow these steps 
+  a. On your local machine type: `ssh -L 2222:login.hpc.cam.ac.uk:22 ab123@gate.eng.cam.ac.uk`
+  b. While that is running, on a different terminal type: scp -P 2222 -r ./file-or-directory-to-send ab123@localhost:/scratch/ab123/
