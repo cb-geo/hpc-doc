@@ -34,9 +34,9 @@ For more information on job submission, please refer to [http://www.hpc.cam.ac.u
 
 
 # Job submission scripts
-* [Abaqus](./abaqus)
-* [COMSOL](./comsol)
-* [Darwin CPU](./darwin)
-* [LEM](./lem)
-* [Tesla GPU](./tesla)
+* [Abaqus](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/abaqus/submit)
+* [COMSOL](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/comsol.txt)
+* [Darwin CPU](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/darwin.txt)
+* [LEM](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/lem.txt)
+* [Tesla GPU](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/tesla.txt)
 
