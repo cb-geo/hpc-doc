@@ -1,5 +1,5 @@
 # Job submission
-SLURM is an open source workload management and job scheduling system. 
+SLURM is an open source workload management and job scheduling system.
 Once an application is ready to run (e.g., compiled and tested on a login node), it can be submitted to the computational nodes. There are three steps to submit a job.
 
 > **Warning** Never run any computationally intensive or long-duration applications on login nodes, use computational nodes instead. Only use login nodes to compile, run small test-cases and visualise results.
@@ -25,7 +25,7 @@ Then exit the text editor by pressing Ctrl+X if you are using nano. Say yes to s
 
 Now we can submit the job to a computational node. The command to do this is `sbatch submission_script_name`. You will receive an email when the job starts to run or finishes. Here are some useful commands you might need at this stage:
 
-`squeue`: This command offers similar functions as showq, but has more options. To monitor the statues of the jobs you have submitted, use `squeue -u CRSid` or use `showq -u` to monitor status of the jobs. 
+`squeue`: This command offers similar functions as showq, but has more options. To monitor the statues of the jobs you have submitted, use `squeue -u CRSid` or use `showq -u` to monitor status of the jobs.
 
 `scancel <jobid>`: This command can cancel a job that is running or still queuing. Users can use squeue -u CRSid to check their job ID.
 
@@ -37,6 +37,5 @@ For more information on job submission, please refer to [http://www.hpc.cam.ac.u
 * [Abaqus](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/abaqus/submit)
 * [COMSOL](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/comsol.txt)
 * [Darwin CPU](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/darwin.txt)
-* [LEM](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/lem.txt)
+* [LEM](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/lem.txt) [LEM GPU](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/lem-gpu.txt)
 * [Tesla GPU](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/tesla.txt)
-
