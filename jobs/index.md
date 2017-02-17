@@ -37,5 +37,5 @@ For more information on job submission, please refer to [http://www.hpc.cam.ac.u
 * [Abaqus](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/abaqus/submit)
 * [COMSOL](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/comsol.txt)
 * [Darwin CPU](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/darwin.txt)
-* [LEM](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/lem.txt) [LEM GPU](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/lem-gpu.txt)
+* [LEM CPU](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/lem.txt) [LEM GPU](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/lem_gpu.txt)
 * [Tesla GPU](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/tesla.txt)
