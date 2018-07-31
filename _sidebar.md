@@ -1,5 +1,3 @@
-# Summary
-
 * [Applying for resources](applying/index.md)
 * [The HPCS service](service/index.md)
   * [Cost](service/cost.md)
