@@ -39,3 +39,12 @@ For more information on job submission, please refer to [http://www.hpc.cam.ac.u
 * [Darwin CPU](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/darwin.txt)
 * [LEM CPU](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/lem.txt) [LEM GPU](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/lem_gpu.txt)
 * [Tesla GPU](https://raw.githubusercontent.com/cb-geo/hpc-scripts/master/tesla.txt)
+
+
+# Interactive use
+
+You can request and interactive bash terminal...
+
+```
+srun -A SOGA-SL2-CPU -p skylake -t 01:00:00 --qos=intr --pty -N1 -n1 --exclusive bash
+```
